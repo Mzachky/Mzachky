@@ -8,7 +8,30 @@
 
 # To get started:
 
-# 1. Add your7AWueCW8R3XtyVzSBqZWqEUyspOQFRB6ee Datadog API (DD_API_KEY) and Application Key (DD_APP_KEY) as secrets to your GitHub repository. For more information, see: https://docs.datadoghq.com/account_management/api-app-keys/.
+# 1. Add your Datadog APIssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQClSuilNbgplimTr5vN6kX+zpGtXzS10CDh12dc4Ud8QklUyics7keGe+XNLKyZZWzUaZoj5qkDjvh5Ghc6MUhVV3bTvPCRr6ig8WZVM6Ip0Xq8LHyvCkilxXkrT/N+iDtmtQEufRB8gD/FqrSSyJpqzPfZhp43AzhmHc/TugVJj8JK4KhSihYPG+H4DwlSuGJEFOdMElXu2Jktg0MmzGX1+fsMS7zolqe1qTA+bAvKjf4p9ztr23tOVCc7k/OptJdV6Z/Ik+7AiZ1lnzyzmtQ3Q0Tb0eyt0cdYTy/SLOxl3+l9sOm7yABDy8rBTTiKMo7+RFwZ/v9G8+ALOrCrqUKaT7naMTqzubSGHP/cBlQVynWoEBsESI1SLSdRMWfJK0cohV4idn7+pEX4gOhq+vqB1jG5uNqI2qm6DXQjuP/uJ4ZbhH9vmqAFgZ1WRV7HUPHONrYNfQS97BvmgbmmbJCSJiSMrvTX8Tr9coymwWinHTDx3vBqoc0IS7KlFLBBoys= (DD_API_KEY) and Application Key (DD_APP_KEY)-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaMQADxYJKwYBBAHaRw8BAQdAOH3KRlST0azhskrfl3Qyll36kAlspFy4jvPe
+r0+F0h+0JEpvc2UgTW9saW5hICA8bXphY2hhcnk2NDBAZ21haWwuY29tPohyBBMW
+CAAaBAsJCAcCFQgCFgECGQEFgmjYzlQCngECmwMACgkQnT5Z2QN4Mbcy2gEAm31S
+yXLvAA87y0TdPfQ+xmV2qPLUX4Jm+CbxOtqZHlABAIKujS/BWHpQyjnpy+VVJeOV
+0+MgLV1aOannkGAecp4CuDgEaMQADxIKKwYBBAGXVQEFAQEHQArW8wfIYB6RtQFs
+0WokPxbcYk8mxxzh1dr6wTGWbPw6AwEIB4h4BBgWCAAJBYJoxAAPApsMACEJEJ0+
+WdkDeDG3FiEE+vaK1YyKg4sKpOOynT5Z2QN4Mbe8KAEA9vUt+QJOegDn2Zn0C6TZ
+KJavLdPRCHtcEMOIdgdLWM4A/iIz07XFNVecRAYROUAFZOO0BrqfoYWT7hfbf8fR
+A2YBuQGNBGjYzlQBDAClSuilNbgplimTr5vN6kX+zpGtXzS10CDh12dc4Ud8QklU
+yics7keGe+XNLKyZZWzUaZoj5qkDjvh5Ghc6MUhVV3bTvPCRr6ig8WZVM6Ip0Xq8
+LHyvCkilxXkrT/N+iDtmtQEufRB8gD/FqrSSyJpqzPfZhp43AzhmHc/TugVJj8JK
+4KhSihYPG+H4DwlSuGJEFOdMElXu2Jktg0MmzGX1+fsMS7zolqe1qTA+bAvKjf4p
+9ztr23tOVCc7k/OptJdV6Z/Ik+7AiZ1lnzyzmtQ3Q0Tb0eyt0cdYTy/SLOxl3+l9
+sOm7yABDy8rBTTiKMo7+RFwZ/v9G8+ALOrCrqUKaT7naMTqzubSGHP/cBlQVynWo
+EBsESI1SLSdRMWfJK0cohV4idn7+pEX4gOhq+vqB1jG5uNqI2qm6DXQjuP/uJ4Zb
+hH9vmqAFgZ1WRV7HUPHONrYNfQS97BvmgbmmbJCSJiSMrvTX8Tr9coymwWinHTDx
+3vBqoc0IS7KlFLBBoysAEQEAAYhhBBgWCAAJBYJo2M5UApsgAAoJEJ0+WdkDeDG3
+pYUBANulh/XSaJ5kDMW0HDCCBk6OJ9JOkngV3cHs1SP1tSB8AQD8hFCbMTcSGpQc
+mNNYYSc7YcjBt7ICE7iVqnkuSO//CQ==
+=q6OL
+-----END PGP PUBLIC KEY BLOCK-----
+ as secrets to your GitHub repository. For more information, see: https://docs.datadoghq.com/account_management/api-app-keys/.
 # 2. Start using the action within your workflow
 
 name: Run Datadog Synthetic tests
